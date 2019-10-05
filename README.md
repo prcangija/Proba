@@ -7,4 +7,4 @@ minimum number of players is 5, maximum 11
 
 i've created this just for fun with my friends when we play PES, so we dont need paper and pen to create our tournament
 
-any question regarding file, feel free to contact me for further explanation (file is on serbian mixed with english)
+any questions regarding file, feel free to contact me for further explanation (file is on serbian mixed with english)
